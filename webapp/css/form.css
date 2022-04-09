@@ -1,0 +1,20 @@
+fieldset{
+    margin: 10px 10px;
+}
+
+.action_form {
+    font-family: Arial;
+    font-size: 17px;
+    text-align: center;
+    margin: 10px 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.save_button{
+    font-family: Arial;
+    font-size: 17px;
+    margin: 10px 0 10px;
+}
